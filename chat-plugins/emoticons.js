@@ -5,7 +5,7 @@ let color = require('../config/color');
 exports.parseEmoticons = parseEmoticons;
 
 let emotes = {
-	'discordance': 'http://i.imgur.com/2CKkVTI.gif',
+	'hug': 'http://i.imgur.com/2CKkVTI.gif',
 	'derpdance': 'http://i.imgur.com/zYI7jzd.gif',     
    ':4head:': 'http://cbc.pokecommunity.com/config/emoticons/4head.png',
 	':absol:': 'http://cbc.pokecommunity.com/config/emoticons/absol.png',
