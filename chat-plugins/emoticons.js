@@ -68,7 +68,22 @@ let emotes = {
 	':n3n:': 'http://i.imgur.com/wfvgBfp.png',     
 	':ovo:': 'http://i.imgur.com/1YazKtK.gif',    
 	':wot:': 'http://i.imgur.com/szKVmbh.png',      
-	':waaa:': 'http://i.imgur.com/LNDSvBD.gif',       
+	':waaa:': 'http://i.imgur.com/LNDSvBD.gif',   
+	'applecry': 'http://i.imgur.com/xEkczlv.gif',       
+	'anadieleimporta': 'http://i.imgur.com/sDO85s4.jpg',     
+	':celebrate:': 'http://i.imgur.com/j5Ob4T1.gif',       
+	':smile:': 'http://i.imgur.com/1Zvzdd0.gif',        
+	':aiuda:': 'http://i.imgur.com/K3QlLDH.gif',            
+	':nonono:': 'http://i.imgur.com/T4MfQeu.gif',        
+	':jumps:': 'http://i.imgur.com/c5cQEEA.gif',                
+	':nope:': 'http://i.imgur.com/fdrKgty.gif',       
+	':sleep:': 'http://i.imgur.com/itEG4qR.gif',                
+	':etto:': 'http://i.imgur.com/xDWW0Z6.gif',            
+	':jijiji:': 'http://i.imgur.com/qQKWlgL.gif',          
+	':plis:': 'http://i.imgur.com/xJB9aBE.gif',           
+	':buuu:': 'http://i.imgur.com/QZqmFlP.gif',      
+	':crazy:': 'http://i.imgur.com/aEm9OSb.gif',          
+	'quierepelea?': 'http://i.imgur.com/MJPZjtB.gif', 
 };
 
 let emotesKeys = Object.keys(emotes);
