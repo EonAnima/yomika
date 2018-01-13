@@ -6,7 +6,7 @@ exports.parseEmoticons = parseEmoticons;
 
 let emotes = {
 	
-	':4head:': 'http://i.imgur.com/2CKkVTI.gif',
+	':discordance:': 'http://i.imgur.com/2CKkVTI.gif',
 	':absol:': 'http://cbc.pokecommunity.com/config/emoticons/absol.png',
 	':aggron:': 'http://cbc.pokecommunity.com/config/emoticons/aggron.png',
 	':aids:': 'http://cbc.pokecommunity.com/config/emoticons/aids.png',
