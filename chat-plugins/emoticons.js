@@ -84,6 +84,21 @@ let emotes = {
 	':buuu:': 'http://i.imgur.com/QZqmFlP.gif',      
 	':crazy:': 'http://i.imgur.com/aEm9OSb.gif',          
 	'quierepelea?': 'http://i.imgur.com/MJPZjtB.gif', 
+	'feelsangry': 'http://i.imgur.com/SdVeXXB.gif',              
+	'feelssick': 'http://i.imgur.com/vNMGLTu.gif',            
+	'feelssad': 'http://i.imgur.com/SPXdiXc.gif',        
+   'twiden': 'http://i.imgur.com/vFnQEEF.png',             
+        'applepie': 'http://i.imgur.com/TdQ5zsN.png',       
+        'rarekiss': 'http://i.imgur.com/dOPLtdi.png',            
+        'manehug': 'http://i.imgur.com/sfBCmvA.png',        
+        'celuna': 'http://i.imgur.com/dTV2fF5.png',                 
+	'lunetia': 'http://i.imgur.com/mQxhQzU.png',                  
+	'sqhug': 'http://i.imgur.com/LnOpia5.png',               
+	'flutterstamp': 'http://i.imgur.com/sHBC2h2.png',
+	'rainkiss': 'http://i.imgur.com/p0C40QY.png',       
+	'lunash': 'http://i.imgur.com/YnxHMWA.png',           
+	'cyndashy': 'http://i.imgur.com/XSm3moT.png',
+        'rainhug': 'http://i.imgur.com/otc67r9.png',
 };
 
 let emotesKeys = Object.keys(emotes);
