@@ -275,7 +275,7 @@ exports.customavatars = {
 	'kiritobladekun': 'kiritobladekun.gif',
 	'roxierosalinaxl': 'roxierosalinaxl.gif',
 	'mysteryxgris': 'mysteryxgris.gif',
-	'creepycream': 'creepycream.gif',
+	'creepycream': 'creepycream.jpg',
 	
 };
 
