@@ -280,7 +280,7 @@ exports.customavatars = {
    'himawari123': 'himawari123.gif',
    'blackr2': 'blackr2.jpg',
    'nitrameltremendo': 'nitrameltremendo.jpg',
-   'equestriaguard': 'equestriaguard.jpg',
+   'equestriaguard': 'equestriaguard.png',
 	'laprincesaluna': 'laprincesaluna.png',
 	
 };
