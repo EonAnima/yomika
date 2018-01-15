@@ -276,6 +276,11 @@ exports.customavatars = {
 	'roxierosalinaxl': 'roxierosalinaxl.gif',
 	'mysteryxgris': 'mysteryxgris.gif',
 	'creepycream': 'creepycream.jpg',
+	'anavi': 'anavi.png',
+   'himawari123': 'himawari123.gif',
+   'blackr2': 'blackr2.jpg',
+   'nitrameltremendo': 'nitrameltremendo.jpg',
+   'equestriaguard': 'equestriaguard.jpg',
 	
 };
 
