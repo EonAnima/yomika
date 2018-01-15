@@ -150,7 +150,22 @@ let emotes = {
 	'raptordance': 'http://i.imgur.com/ckDGK5c.gif',
 	'celestialdance': 'http://i.imgur.com/SqRzBps.gif',         
 	'moondance': 'http://i.imgur.com/jwF7pDv.gif',          
-	':20:': 'http://i.imgur.com/Jv6zyee.gif',        
+	':20:': 'http://i.imgur.com/Jv6zyee.gif',      
+	':pokebolas:': 'https://i.imgur.com/f0c9zQ3.gif',
+':join': 'https://i.imgur.com/v9CNxOI.gif',     
+'akanbe': 'https://i.imgur.com/kJsanLM.gif',                   
+':nuzzle:': 'http://i.imgur.com/Wjaxv8K.gif',           
+':triste:': 'https://i.imgur.com/GNSwItS.gif',               
+':sueño:': 'https://i.imgur.com/wx95WLY.gif',             
+':oiezy:': 'https://i.imgur.com/aNzqYs1.gif',
+':pikano:': 'https://i.imgur.com/kC2pUcJ.gif',     
+':shy:': 'https://i.imgur.com/on0wgXQ.gif',
+':tongue:': 'https://i.imgur.com/OXlP3yH.gif',
+':angry:': 'https://i.imgur.com/dylbeRB.gif',
+':jiii:': 'https://i.imgur.com/LOmociD.gif',
+':miss u:': 'https://i.imgur.com/UYOfivO.gif',
+':nanana:': 'https://i.imgur.com/P9pbwYd.gif',
+':loli:': 'https://i.imgur.com/sbzZHKk.gif',
 };
 
 let emotesKeys = Object.keys(emotes);
