@@ -281,6 +281,7 @@ exports.customavatars = {
    'blackr2': 'blackr2.jpg',
    'nitrameltremendo': 'nitrameltremendo.jpg',
    'equestriaguard': 'equestriaguard.jpg',
+	'laprincesaluna': 'equestriaguard.jpg,
 	
 };
 
