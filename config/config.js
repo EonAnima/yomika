@@ -282,7 +282,8 @@ exports.customavatars = {
    'nitrameltremendo': 'nitrameltremendo.jpg',
    'equestriaguard': 'equestriaguard.png',
 	'laprincesaluna': 'laprincesaluna.png',
-	'imissfadeless' : 'imissfadeless.jpg',	
+	'imissfadeless' : 'imissfadeless.jpg',
+	'rulesormigah' : 'rulesormigah.png',
 	
 };
 
