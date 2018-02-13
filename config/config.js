@@ -271,7 +271,6 @@ exports.customavatars = {
 	'megalucariov': 'megalucariov.gif',
 	'rookiedoce': 'rookiedoce.jpg',
 	'devonrawr': 'devonrawr.gif',
-	'drapionjosi': 'drapionjosi.png',
 	'kiritobladekun': 'kiritobladekun.gif',
 	'roxierosalinaxl': 'roxierosalinaxl.gif',
 	'mysteryxgris': 'mysteryxgris.gif',
