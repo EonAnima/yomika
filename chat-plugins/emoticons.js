@@ -5,6 +5,9 @@ let color = require('../config/color');
 exports.parseEmoticons = parseEmoticons;
 
 let emotes = {
+	'lno' : 'https://i.imgur.com/my7qcWS.gif',
+	':love:': 'https://i.imgur.com/xOwSdVy.gif'
+	':rock:': 'https://i.imgur.com/l8s0BFK.gif'
 	'twna':'https://i.imgur.com/Y11VTBV.jpg',
 	'lunight':'https://i.imgur.com/HKp19WH.jpg',
 	':discordance:': 'http://i.imgur.com/2CKkVTI.gif',
