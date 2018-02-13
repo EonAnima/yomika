@@ -265,6 +265,7 @@ exports.autolockdown = true;
 // displayed in the client.
 exports.customavatars = {
 	
+	'NightmareMoon001' : 'NightmareMoon001.png',
 	'principebaka': 'principebaka.gif',
 	'ryukiry': 'ryukiry.gif',
 	'suraku75': 'suraku75.gif',
@@ -283,7 +284,6 @@ exports.customavatars = {
 	'laprincesaluna': 'laprincesaluna.png',
 	'imissfadeless' : 'imissfadeless.jpg',
 	'rulesormigah' : 'rulesormigah.png',
-	'NightmareMoon001' : 'NightmareMoon001.png',
 	
 };
 
