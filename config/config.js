@@ -284,6 +284,7 @@ exports.customavatars = {
 	'laprincesaluna': 'laprincesaluna.png',
 	'imissfadeless' : 'imissfadeless.jpg',
 	'rulesormigah' : 'rulesormigah.png',
+	'NightmareMoon001' : 'NightmareMoon001.png',
 	
 };
 
