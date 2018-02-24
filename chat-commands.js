@@ -1565,7 +1565,7 @@ exports.commands = {
 		}
 		if (!this.can('warn', targetUser, room)) return false;
 
-		this.addModAction("|raw|" + targetUser.name + " was warned by " + user.name + ". + (target ? " (" + target + ")" : ""));
+		this.addModAction("" + targetUser.name + " was warned by " + user.name + "." + (target ? " (" + target + ")" : ""));
 		this.modlog('WARN', targetUser, target, {noalts: 1});
 		targetUser.send('|c|~|/warn ' + target);
 		let userid = targetUser.getLastId();
