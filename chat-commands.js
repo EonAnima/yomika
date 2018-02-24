@@ -1565,7 +1565,7 @@ exports.commands = {
 		}
 		if (!this.can('warn', targetUser, room)) return false;
 
-		this.addModAction("|raw|" + targetUser.name + " was warned by " + user.name + ". <a href=http://www.pokecommunity.com/showthread.php?t=289012#rules>Please follow the PC Battle Server rules</a>, and not those in the pop-up." + (target ? " (" + target + ")" : ""));
+		this.addModAction("|raw|" + targetUser.name + " was warned by " + user.name + ". + (target ? " (" + target + ")" : ""));
 		this.modlog('WARN', targetUser, target, {noalts: 1});
 		targetUser.send('|c|~|/warn ' + target);
 		let userid = targetUser.getLastId();
