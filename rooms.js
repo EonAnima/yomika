@@ -413,6 +413,10 @@ class GlobalRoom extends BasicRoom {
 				isPrivate: true,
 				staffRoom: true,
 				staffAutojoin: true,
+			},{
+				title: 'Morna',
+				isOfficial: true,
+				Autojoin: true,
 			}];
 		}
 
